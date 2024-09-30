@@ -1,1 +1,1 @@
-user=%7B%22id%22%3A1580490871%2C%22first_name%22%3A%22Panggil%20aja%20Dwi%22%2C%22last_name%22%3A%22%F0%9F%8D%85%F0%9F%90%88%E2%80%8D%E2%AC%9B%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22guenetizen%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=4157926843421867008&chat_type=channel&start_param=RZT8iLhx1hcX4JK2ow6wfV&auth_date=1727662288&hash=ec05aa5de9381476d8921e7a2e560467a18231086741f2b26acf1b37be96b384
+
